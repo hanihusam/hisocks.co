@@ -1,5 +1,4 @@
 import logo from './images/hisocks-logo.png';
-import './App.css';
 
 function App() {
   return (
