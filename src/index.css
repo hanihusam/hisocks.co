@@ -19,7 +19,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  color: #232323;
+  color: #fdf1ef;
   line-height: 1.2;
 }
 ul,
@@ -45,5 +45,5 @@ li {
 p,
 label {
   font-size: 14px;
-  color: #232323;
+  color: #fdf1ef;
 }
