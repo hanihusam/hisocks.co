@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hisocks.co/static/css/main.6cba5ab9.chunk.css",
+    "main.js": "/hisocks.co/static/js/main.671a68ad.chunk.js",
+    "main.js.map": "/hisocks.co/static/js/main.671a68ad.chunk.js.map",
+    "runtime-main.js": "/hisocks.co/static/js/runtime-main.a3dcadc6.js",
+    "runtime-main.js.map": "/hisocks.co/static/js/runtime-main.a3dcadc6.js.map",
+    "static/js/2.a195fc26.chunk.js": "/hisocks.co/static/js/2.a195fc26.chunk.js",
+    "static/js/2.a195fc26.chunk.js.map": "/hisocks.co/static/js/2.a195fc26.chunk.js.map",
+    "index.html": "/hisocks.co/index.html",
+    "static/css/main.6cba5ab9.chunk.css.map": "/hisocks.co/static/css/main.6cba5ab9.chunk.css.map",
+    "static/js/2.a195fc26.chunk.js.LICENSE.txt": "/hisocks.co/static/js/2.a195fc26.chunk.js.LICENSE.txt",
+    "static/media/background.39718427.jpg": "/hisocks.co/static/media/background.39718427.jpg",
+    "static/media/hisocks-logo-circle.c3d3fb1e.png": "/hisocks.co/static/media/hisocks-logo-circle.c3d3fb1e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3dcadc6.js",
+    "static/js/2.a195fc26.chunk.js",
+    "static/css/main.6cba5ab9.chunk.css",
+    "static/js/main.671a68ad.chunk.js"
+  ]
+}
